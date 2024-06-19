@@ -1,0 +1,12 @@
+{
+  "source": "/Users/blitz/dev/SwiftTest/AutoUnitTest2/AutoUnitTest2/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'AutoUnitTest2UITests' in project 'AutoUnitTest2' (no dependencies)
+Target 'AutoUnitTest2UITests' in project 'AutoUnitTest2'
+➜ Explicit dependency on target 'AutoUnitTest2' in project 'AutoUnitTest2'
+Target 'AutoUnitTest2UITests' in project 'AutoUnitTest2'
+➜ Explicit dependency on target 'AutoUnitTest2' in project 'AutoUnitTest2'
+Target 'AutoUnitTest2Tests' in project 'AutoUnitTest2' (no dependencies)
+Target 'AutoUnitTest2Tests' in project 'AutoUnitTest2'
+➜ Explicit dependency on target 'AutoUnitTest2' in project 'AutoUnitTest2'
+Target 'AutoUnitTest2Tests' in project 'AutoUnitTest2'
+➜ Explicit dependency on target 'AutoUnitTest2' in project 'AutoUnitTest2'
+Target 'AutoUnitTest2' in project 'AutoUnitTest2' (no dependencies)
+Target 'AutoUnitTest2' in project 'AutoUnitTest2' (no dependencies)

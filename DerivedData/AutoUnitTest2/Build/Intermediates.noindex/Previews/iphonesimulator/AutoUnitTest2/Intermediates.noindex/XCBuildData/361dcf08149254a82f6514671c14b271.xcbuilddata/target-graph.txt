@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'AutoUnitTest2' in project 'AutoUnitTest2' (no dependencies)

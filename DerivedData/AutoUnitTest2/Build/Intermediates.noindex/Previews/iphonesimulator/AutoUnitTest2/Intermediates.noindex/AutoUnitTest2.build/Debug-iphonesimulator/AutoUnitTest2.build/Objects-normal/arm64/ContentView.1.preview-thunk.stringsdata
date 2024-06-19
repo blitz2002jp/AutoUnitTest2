@@ -1,0 +1,12 @@
+{
+  "source": "/Users/blitz/dev/SwiftTest/AutoUnitTest2/DerivedData/AutoUnitTest2/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest2/Intermediates.noindex/AutoUnitTest2.build/Debug-iphonesimulator/AutoUnitTest2.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
